@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydnGmuwS9zZHejtK6MjLFTlwSgFy8WTWXh5VzA0N4sHdA9MZAzQ6w1B05fppH0WriNuHklFOAq06N8jsmcazuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\ElasticLog_Implementation_Api\\ElasticLog_Implementation_Api\\ElasticLog_Implementation_Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\elasticsearch.net\\6.5.0\\elasticsearch.net.6.5.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\nest\\6.5.0\\nest.6.5.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.1\\swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

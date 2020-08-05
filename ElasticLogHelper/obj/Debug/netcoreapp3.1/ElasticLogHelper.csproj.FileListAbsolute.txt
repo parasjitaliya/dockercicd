@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\ElasticLog_Implementation_Api\ElasticLogHelper\bin\Debug\netcoreapp3.1\ElasticLogHelper.exe
+C:\Users\hp\source\repos\ElasticLog_Implementation_Api\ElasticLogHelper\bin\Debug\netcoreapp3.1\ElasticLogHelper.deps.json
+C:\Users\hp\source\repos\ElasticLog_Implementation_Api\ElasticLogHelper\bin\Debug\netcoreapp3.1\ElasticLogHelper.runtimeconfig.json
+C:\Users\hp\source\repos\ElasticLog_Implementation_Api\ElasticLogHelper\bin\Debug\netcoreapp3.1\ElasticLogHelper.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ElasticLog_Implementation_Api\ElasticLogHelper\bin\Debug\netcoreapp3.1\ElasticLogHelper.dll
+C:\Users\hp\source\repos\ElasticLog_Implementation_Api\ElasticLogHelper\bin\Debug\netcoreapp3.1\ElasticLogHelper.pdb
+C:\Users\hp\source\repos\ElasticLog_Implementation_Api\ElasticLogHelper\obj\Debug\netcoreapp3.1\ElasticLogHelper.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ElasticLog_Implementation_Api\ElasticLogHelper\obj\Debug\netcoreapp3.1\ElasticLogHelper.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ElasticLog_Implementation_Api\ElasticLogHelper\obj\Debug\netcoreapp3.1\ElasticLogHelper.AssemblyInfo.cs
+C:\Users\hp\source\repos\ElasticLog_Implementation_Api\ElasticLogHelper\obj\Debug\netcoreapp3.1\ElasticLogHelper.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ElasticLog_Implementation_Api\ElasticLogHelper\obj\Debug\netcoreapp3.1\ElasticLogHelper.dll
+C:\Users\hp\source\repos\ElasticLog_Implementation_Api\ElasticLogHelper\obj\Debug\netcoreapp3.1\ElasticLogHelper.pdb
+C:\Users\hp\source\repos\ElasticLog_Implementation_Api\ElasticLogHelper\obj\Debug\netcoreapp3.1\ElasticLogHelper.genruntimeconfig.cache
